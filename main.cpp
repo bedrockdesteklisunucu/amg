@@ -13,7 +13,7 @@
 
 using namespace std;
 
-std::string setting_url = "http://blog-photocontact.vellozzi.com/wp-content/uploads/2011/10/Martin-Schoeller-Barack-Obama-portrait.jpeg";
+std::string setting_url = "https://www.google.com/imgres?q=minecraft%20profil&imgurl=https%3A%2F%2Ffiverr-res.cloudinary.com%2Fimages%2Fq_auto%2Cf_auto%2Fgigs%2F190432969%2Foriginal%2Ffd1b8026aa5d6a8e33438e56effefb383f24c88b%2Fmake-profil-picture-with-your-minecraft-avatar.png&imgrefurl=https%3A%2F%2Fwww.fiverr.com%2Fzakmc_designer%2Fmake-profil-picture-with-your-minecraft-avatar&docid=ZPBW3-kUuplgoM&tbnid=lBbOEf6N9ABRiM&vet=12ahUKEwjnhPW5pNCNAxWjgv0HHVULODUQM3oECF8QAA..i&w=770&h=770&hcb=2&ved=2ahUKEwjnhPW5pNCNAxWjgv0HHVULODUQM3oECF8QAAg";
 bool        setting_gamma = true;
 bool        setting_filter = true;
 bool        setting_multi = true;
